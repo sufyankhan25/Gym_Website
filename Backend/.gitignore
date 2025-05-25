@@ -12,7 +12,8 @@ logs
 dist/
 
 
-
+config.env
+*.env
 
 
 
